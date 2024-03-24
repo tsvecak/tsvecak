@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**tsvecak/tsvecak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! Welcome to my GitHub profile! I'm a seasoned Frontend Developer with a passion for crafting seamless user experiences and bringing designs to life. Here's a glimpse into what I bring to the table:
 
-Here are some ideas to get you started:
+🚀 Senior Frontend Developer | React | Next.js | CSS | SCSS | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently diving deep into React and Next.js to build dynamic and efficient web applications.
+
+💡 Proficient in crafting pixel-perfect UIs with CSS and SCSS, ensuring not just functionality but also aesthetic appeal.
+
+🛠️ Leveraging the power of JavaScript to create interactive and responsive frontend solutions.
+
+📚 Constantly learning and exploring new technologies to stay ahead of the curve in the ever-evolving world of frontend development.
+
+🌟 Let's connect and collaborate on exciting projects! Feel free to reach out for discussions, collaborations, or just to say hi! 🌟
