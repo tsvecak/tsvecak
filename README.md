@@ -1,5 +1,8 @@
 
-👋 Hey there! Welcome to my GitHub profile! I'm a seasoned Frontend Developer with a passion for crafting seamless user experiences and bringing designs to life. Here's a glimpse into what I bring to the table:
+👋 Hey there! 
+Welcome to my GitHub profile! 
+I'm a seasoned Frontend Developer with a passion for crafting seamless user experiences and bringing designs to life. 
+Here's a glimpse into what I bring to the table:
 
 🚀 Senior Frontend Developer | React | Next.js | CSS | SCSS | JavaScript
 
